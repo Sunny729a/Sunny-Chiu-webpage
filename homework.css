@@ -1,0 +1,8 @@
+.homework {
+    width:500px;
+    height: 500px;
+    backgroudn -image:url('bg.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
